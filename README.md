@@ -42,3 +42,9 @@
 - 개발자 도구(DevTools)를 활용한 탐색
 - 자기 주도적인 디지털 표현 능력
 - sw 활동에 흥미 느끼기
+
+---
+
+## 📒 활동 보고서
+
+ - [활동 가이드&활동 보고서](https://awesome-radish-2bf.notion.site/H-JUMP-SCHOOL-21a2d5dbd56980b3978ceaafccabbfeb?pvs=74)
